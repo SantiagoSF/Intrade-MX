@@ -33,7 +33,7 @@ Las fracciones arancelarias se fundamentan el en Sistema armonizado elaborado po
 4. Los últimos dos dígitos (siete y ocho) se aplican de forma local en México.
 **09012101** del café es 09 para el capitulo, 01 para la partida 21 para la subpartida y 01 constituye la fracción. **09012101** es la clasificación arancelaria del café sin descafeinar.
 
-[![Consulta de Importaciones del Café sin descafeinar](freeimage "Consulta de Importaciones del Café sin descafeinar")](https://iili.io/JLbjXn.png "Consulta de Importaciones del Café sin descafeinar")
+![alt text](https://iili.io/JLbjXn.png)
 
 
 Puede encontrar todo el desglose de todas las mercancías en México aquí 
